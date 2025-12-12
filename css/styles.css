@@ -8,17 +8,6 @@
   src: url('../fonts/videotype.ttf') format('truetype');
 }
 
-@media (max-width: 768px) {
-    .navbar-brand {
-        padding: 15px 15px; 
-        font-size: 1.2rem;
-    }
-    .nav-link {
-        padding: 5px 15px;
-        font-size: 1.2rem;
-    }
-}
-
 #introduction {
     position: relative; 
     overflow: hidden; 
@@ -331,4 +320,5 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
