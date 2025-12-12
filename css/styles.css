@@ -391,7 +391,12 @@
     #resume embed {
         height: 500px;
     }
+    .resume-button {
+        font-size: 1.2rem;
+        padding: 10px 25px;
+    }
 }
+
 
 
 
