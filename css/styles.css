@@ -46,6 +46,7 @@
     box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.4);
     padding: 0 8px;
     border-radius: 50%;
+    margin-left: -8px;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
 }
@@ -319,3 +320,4 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
