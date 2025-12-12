@@ -17,6 +17,9 @@
         padding: 5px 15px;
         font-size: 1.2rem;
     }
+    .intro-text-row {
+    padding: 150px 4%;
+    }
 }
 
 #introduction {
@@ -331,6 +334,7 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
 
 
