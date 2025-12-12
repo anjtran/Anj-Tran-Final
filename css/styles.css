@@ -121,6 +121,10 @@
     font-family: 'Questrial', sans-serif;
     font-size: 1.5rem;
     line-height: 1.6;
+    text-shadow: 
+        0 0 10px #ffffff, 
+        4px 4px 15px rgb(255, 255, 255, 0.5), 
+        10px 10px 20px rgb(255, 255, 255, 0.3);
 }
 
 .about-commission-text {
@@ -129,6 +133,10 @@
     line-height: 1.6;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    text-shadow: 
+        0 0 10px #ffffff, 
+        4px 4px 15px rgb(255, 255, 255, 0.5), 
+        10px 10px 20px rgb(255, 255, 255, 0.3);
 }
 
 #contact {
@@ -151,11 +159,19 @@
     font-size: 1.5rem;
     font-family: 'Questrial', sans-serif;
     margin-bottom: 0.5rem;
+    text-shadow: 
+        0 0 10px #ffffff, 
+        4px 4px 15px rgb(255, 255, 255, 0.5), 
+        10px 10px 20px rgb(255, 255, 255, 0.3);
 }
 
 .contact-detail-last {
     font-size: 1.5rem;
     font-family: 'Questrial', sans-serif;
+    text-shadow: 
+        0 0 10px #ffffff, 
+        4px 4px 15px rgb(255, 255, 255, 0.5), 
+        10px 10px 20px rgb(255, 255, 255, 0.3);
 }
 
 #bio-contact-wrapper {
@@ -371,6 +387,7 @@
         height: 500px;
     }
 }
+
 
 
 
