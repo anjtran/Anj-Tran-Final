@@ -17,6 +17,7 @@
         padding: 5px 15px;
         font-size: 1.2rem;
     }
+}
 
 #introduction {
     position: relative; 
@@ -330,6 +331,7 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
 
 
