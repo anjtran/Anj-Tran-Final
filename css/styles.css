@@ -367,7 +367,11 @@
     .resume-header {
         font-size: 2rem;
     }
+    #resume embed {
+        height: 500px;
+    }
 }
+
 
 
 
