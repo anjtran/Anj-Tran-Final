@@ -11,7 +11,7 @@
 @media (max-width: 1320px) {
     .navbar-brand {
         padding: 15px 15px; 
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .nav-link {
         padding: 5px 15px;
@@ -331,6 +331,7 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
 
 
