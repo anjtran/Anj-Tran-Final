@@ -5,7 +5,7 @@
 
 @font-face {
   font-family:'Videotype';
-  src: url('../fonts/videotype.TTF')format('truetype');
+  src: url('../fonts/videotype.ttf')format('truetype');
 }
 
 #introduction {
@@ -315,3 +315,4 @@
     color: #0056b3;
 
 }
+
