@@ -358,6 +358,9 @@
     .contact-detail {
         font-size: 1rem;
     }
+    #bio-contact-wrapper {
+        background-position: 80% center;
+    }
     .designs-header {
         font-size: 1.5rem;
     }
@@ -368,6 +371,7 @@
         font-size: 2rem;
     }
 }
+
 
 
 
