@@ -365,12 +365,13 @@
         font-size: 1.5rem;
     }
     #resume {
-        min-height: 50vh;
+        height: 400px;
     }
     .resume-header {
         font-size: 2rem;
     }
 }
+
 
 
 
