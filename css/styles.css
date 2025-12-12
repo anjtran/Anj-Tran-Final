@@ -18,7 +18,7 @@
         font-size: 1.2rem;
     }
     .intro-text-row {
-    padding: 150px 4%;
+    padding: 10px 4%;
     }
     .intro-overlay-text {
         font-size: 2rem; 
@@ -337,6 +337,7 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
 
 
