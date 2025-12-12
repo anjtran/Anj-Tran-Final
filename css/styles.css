@@ -346,7 +346,11 @@
     .contact-header {
         font-size: 1.5rem;
     }
+    #resume {
+        min-height: 50vh;
+    }
 }
+
 
 
 
