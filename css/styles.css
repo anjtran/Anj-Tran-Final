@@ -17,6 +17,38 @@
         padding: 5px 15px;
         font-size: 1.2rem;
     }
+
+    .intro-text-row {
+        padding: 150px 0 50px 0; 
+    }
+    .intro-overlay-text {
+        font-size: 2rem; 
+    }
+    
+    .view-work-btn {
+        font-size: 1.2rem;
+        padding: 10px 25px;
+    }
+    
+    #about, #contact {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    
+    #resume {
+        min-height: 50vh;
+    }
+    .resume-header {
+        font-size: 2rem;
+    }
+    
+    #resume embed {
+        height: 600px !important; 
+    }
+    
+    .footer-divider {
+        width: 75%;
+    }
 }
 
 #introduction {
@@ -331,6 +363,7 @@
 .back-to-top:hover {
     color: #0056b3;
 }
+
 
 
 
