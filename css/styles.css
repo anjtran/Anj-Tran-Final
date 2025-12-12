@@ -386,7 +386,7 @@
         font-size: 1.2rem;
     }
     .resume-header {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     #resume embed {
         height: 500px;
@@ -396,6 +396,7 @@
         padding: 10px 25px;
     }
 }
+
 
 
 
