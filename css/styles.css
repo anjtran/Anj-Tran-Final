@@ -380,6 +380,9 @@
     .designs-header {
         font-size: 1.5rem;
     }
+    .designs-subtext {
+        font-size: 1rem;
+    }
     .resume-header {
         font-size: 2rem;
     }
@@ -387,6 +390,7 @@
         height: 500px;
     }
 }
+
 
 
 
