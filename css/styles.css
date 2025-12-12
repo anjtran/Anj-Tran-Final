@@ -113,7 +113,7 @@
 
 .about-header {
     font-size: 2.5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     font-family: 'M42_FLIGHT 721', sans-serif;
 }
 
@@ -128,7 +128,7 @@
     font-size: 1.5rem;
     line-height: 1.6;
     margin-top: 2rem;
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
 }
 
 #contact {
@@ -142,8 +142,8 @@
 }
 
 .contact-header {
-    font-size: 2rem;
-    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
     font-family: 'M42_FLIGHT 721', sans-serif;
 }
 
@@ -320,4 +320,3 @@
 .back-to-top:hover {
     color: #0056b3;
 }
-
